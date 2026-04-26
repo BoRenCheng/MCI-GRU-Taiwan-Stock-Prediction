@@ -101,3 +101,9 @@ yfinance
 ## 參考論文
 
 Peng Zhu et al. (2025). MCI-GRU: Stock Prediction Model Based on Multi-Head Cross-Attention and Improved GRU.
+
+---
+## 授權
+Copyright (c) 2026 Bo-Ren Cheng(BoRenCheng)
+
+本專案採用 MIT License 授權。
